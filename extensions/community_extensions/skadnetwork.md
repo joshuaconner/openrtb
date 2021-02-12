@@ -402,7 +402,7 @@ If the bid request included the `BidRequest.imp.ext.skadn` object, then a DSP co
         string
       </td>
       <td>
-        "timestamp": "1594406341"
+        "timestamp": "1594406341404"
       </td>
     </tr>
     <tr>
